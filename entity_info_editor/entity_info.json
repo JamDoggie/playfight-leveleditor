@@ -1,0 +1,49 @@
+{
+  "GameEntities": {
+    "0": {
+      "FullName": "EntityPlayer",
+      "TrimmedName": "EntityPlayer",
+      "ModelGltfName": "EntityPlayer.glb"
+    },
+    "1": {
+      "FullName": "PlayFight.scripts.player.weapon.PlayerWeaponMagnum",
+      "TrimmedName": "PlayerWeaponMagnum",
+      "ModelGltfName": "PlayerWeaponMagnum.glb"
+    },
+    "2": {
+      "FullName": "PlayFight.scripts.player.weapon.WeaponSpawnEntity",
+      "TrimmedName": "WeaponSpawnEntity",
+      "ModelGltfName": "WeaponSpawnEntity.glb"
+    },
+    "3": {
+      "FullName": "PlayFight.scripts.networking.world.entity.PfVertigoTestMap",
+      "TrimmedName": "PfVertigoTestMap",
+      "ModelGltfName": "PfVertigoTestMap.glb"
+    },
+    "4": {
+      "FullName": "PlayFight.scripts.networking.world.entity.PlayerRagdollEntity",
+      "TrimmedName": "PlayerRagdollEntity",
+      "ModelGltfName": "PlayerRagdollEntity.glb"
+    },
+    "5": {
+      "FullName": "PlayFight.scripts.networking.world.entity.PlayerSpawnEntity",
+      "TrimmedName": "PlayerSpawnEntity",
+      "ModelGltfName": "PlayerSpawnEntity.glb"
+    },
+    "6": {
+      "FullName": "PlayFight.scripts.networking.world.entity.QodotMapEntity",
+      "TrimmedName": "QodotMapEntity",
+      "ModelGltfName": "QodotMapEntity.glb"
+    },
+    "7": {
+      "FullName": "PlayFight.scripts.networking.world.entity.RoundManagerEntity",
+      "TrimmedName": "RoundManagerEntity",
+      "ModelGltfName": "RoundManagerEntity.glb"
+    },
+    "8": {
+      "FullName": "PlayFight.scripts.networking.world.entity.TestEntity",
+      "TrimmedName": "TestEntity",
+      "ModelGltfName": "TestEntity.glb"
+    }
+  }
+}
